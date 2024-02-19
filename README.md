@@ -1,5 +1,4 @@
 # Simple Thumb
-</b></b>
 
 ## Features
 - **Customization**: Users can choose image size ratios such as 1:1, 4:3, or 16:9.
@@ -19,5 +18,7 @@
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-</b></b>
+## ScreenShots
+<img src="/code.png" width="200"><br><br><img src="/sample.png" width="200">
+<br><br>
 > 👾 HAPPY CODING !!
