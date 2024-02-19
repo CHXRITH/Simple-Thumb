@@ -8,11 +8,11 @@
 
 ## Requirements
 - Python 3.x
-- OpenCV library (`pip install pytube`)
+- OpenCV library (`pip install opencv-python`)
 
 ## Usage
 1. Clone the repository or download the `thumb.py` script.
-2. Install the Pytube library if you haven't already: `pip install pytube`.
+2. Install the Pytube library if you haven't already: `pip install opencv-python`.
 3. Run the script by executing thumb.py`.
 4. Follow the on-screen instructions to create simple thumb.
 
